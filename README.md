@@ -17,6 +17,17 @@ Before you proceed with the installation, ensure that you have the following pre
 ## Installation
 Follow these steps to install Polybar on your system.
 
+1. **Clone repository**
+   
+   - Run the following command to make the script executable:
+     ```
+     git clone https://github.com/ElIsaac/polybar-manjaro-i3
+     cd polybar-manjaro-i3
+     mv ./install_polybar.sh ~
+     cd ..
+     sudo rm -rf polybar-manjaro-i3
+     cd ~
+
 2. **Make the Script Executable:**
    - Open your terminal and navigate to the directory where you saved the script.
    - Run the following command to make the script executable:
@@ -58,6 +69,17 @@ Antes de proceder con la instalación, asegúrate de tener los siguientes prerre
 
 ## Instalación
 Sigue estos pasos para instalar Polybar en tu sistema.
+
+1. **Clonar repositorio**
+   
+   - Run the following command to make the script executable:
+     ```
+     git clone https://github.com/ElIsaac/polybar-manjaro-i3
+     cd polybar-manjaro-i3
+     mv ./install_polybar.sh ~
+     cd ..
+     sudo rm -rf polybar-manjaro-i3
+     cd ~
 
 2. **Hacer Ejecutable el Script:**
    - Abre tu terminal y navega al directorio donde guardaste el script.
