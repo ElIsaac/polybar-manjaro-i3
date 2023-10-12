@@ -13,7 +13,7 @@ fi
 
 # Clonar el repositorio de Polybar desde GitHub
 echo "Clonando el repositorio de Polybar..."
-git clone https://github.com/polybar/polybar.git
+git clone --recursive https://github.com/polybar/polybar.git
 
 # Cambiar al directorio de Polybar
 cd polybar
